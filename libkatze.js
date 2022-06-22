@@ -1,4 +1,4 @@
-/*libKatze v0.3, licensed under BSD 3-Clause License*/
+/*libKatze v0.3*/
 const d = document
 const katze = {
 
